@@ -1,1 +1,1 @@
-# Detecting-Fake-Marketing-Media-Bias-Using-Machine-Learning
+# Fake News & Marketing Detection
